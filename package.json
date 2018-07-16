@@ -1,0 +1,23 @@
+{
+  "name": "simple-cms",
+  "version": "1.0.0",
+  "description": "simple cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzivenu/simple-cms.git"
+  },
+  "keywords": [
+    "cms",
+    "node.js"
+  ],
+  "author": "dzivenu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dzivenu/simple-cms/issues"
+  },
+  "homepage": "https://github.com/Dzivenu/simple-cms#readme"
+}
